@@ -73,9 +73,6 @@ Dataset Source: Kaggle – Formula 1 World Championship Data 1950-2024
 ────────────────────────────
 
 
----
-
-## 🏁 Sample Output
 
 
 
