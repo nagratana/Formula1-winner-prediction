@@ -14,7 +14,6 @@ This project uses **Machine Learning (XGBoost – Tuned with GridSearchCV)** to 
 - Season (Year)
 - Historical performance
 
-
 ---
 
 ## 🧠 Models & Techniques Used
@@ -52,6 +51,12 @@ Dataset Source: Kaggle – Formula 1 World Championship Data 1950-2024
 
 ---
 
+## 🔗 Kaggle Notebook (Project Code)
+
+👉 https://www.kaggle.com/code/nagratna5207/ml-project-nagratna
+
+---
+
 ## 🛠️ Technologies Used
 
 - Python
@@ -61,15 +66,7 @@ Dataset Source: Kaggle – Formula 1 World Championship Data 1950-2024
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
-🏁 Sample Output
-────────────────────────────
-🏎️ Driver: Lewis Hamilton
-📍 Race: Abu Dhabi Grand Prix (2021)
-🚦 Grid Position: 1
-🎯 Win Probability: 87.32%
-────────────────────────────
+---
 
-
-
-
+## 🏁 Sample Output
 
