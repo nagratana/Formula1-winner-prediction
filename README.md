@@ -66,8 +66,19 @@ Dataset Source: Kaggle – Formula 1 World Championship Data 1950-2024
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
+
+🏁 Sample Output
+────────────────────────────
+🏎️ Driver: Lewis Hamilton
+📍 Race: Abu Dhabi Grand Prix (2021)
+🚦 Grid Position: 1
+🎯 Win Probability: 87.32%
+────────────────────────────
+
+
 ---
 
 ## 🏁 Sample Output
+
 
 
